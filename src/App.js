@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import { Fragment } from 'react';
 
 function App() {
   return (
-    <div className="App">
+    <Fragment>
       Homepage
-    </div>
+    </Fragment>
   );
 }
 
